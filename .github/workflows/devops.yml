@@ -6,7 +6,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: set up Python 3.12.3
-      uses: actions/setup-pyhton@v1
+      uses: actions/setup-python@v1
       with:
         python-version: 3.12.3
     - name: install dependencies
