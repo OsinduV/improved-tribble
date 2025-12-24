@@ -2,6 +2,8 @@
 
 ## Scaffold
 
+## Steps
+
 1. create a pyhton virtual environment
 2. create empty files : 
     `requirements.txt`, 
