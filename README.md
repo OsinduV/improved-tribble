@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/OsinduV/improved-tribble/actions/workflows/devops.yml/badge.svg)](https://github.com/OsinduV/improved-tribble/actions/workflows/devops.yml)
+
 # improved-tribble
 
 ## Scaffold
